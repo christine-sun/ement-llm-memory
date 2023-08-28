@@ -43,7 +43,39 @@ With this context, the module returned the following predicted response: <em>The
 Overall, in this particular dataset, embeddings top10 had an accuracy of 0.688 and entity raw sentences with prompting had an accuracy of 0.750, while EMENT10 had an accuracy of 0.813.
 Ultimately, the recognition of the complementary nature of embeddings and entity extraction (embeddings catch entities and vice versa!) led to the formation of EMENT, which combined the two approaches during storage and retrieval.
 
-### EMENT vs Baseline
+### Implementation
+#### Storage
+1. For every line in source_text, create a spaCy Doc object. Store this as line_docs
+2. Create a matrix of document vectors by fetching the corresponding vector for each Doc in
+line_docs
+3. Instantiate a NearestNeighbors object with k neighbors to return by using the Sklearn’s
+NearestNeighbors (an unsupervised learner for implementing neighbor searches)
+4. Fit the NearestNeighbors object to the document vectors
+5. Initialize an empty entity_dict, which will store all entity → sentence mappings
+6. Initialize a Guardrail instance to fix the response from the language model
+7. For every line in source_text
+Fetch all entities in the line and return it in JSON format using guardrails (see Appendix for the exact prompt)
+For every entity in the line’s entities
+If the entity exists in entity_dict, append the line to the value associated with it Else, create a new key with this entity in entity_dict and let the value equal this line
+8. Store the entity_dict in the memory module
+
+### Query
+1. Create a spaCy Doc object for the query string. Store this as new_doc
+2. Find the indices of the k nearest neighbors to the new_doc. distances, indices =
+self.nn.kneighbors([new_doc.vector])
+3. Fetch the closest embeddings by looping through the indices and concatenating them in
+closest_embeddings.
+4. Initialize a context string
+5. Find all entities in the query
+6. For each entity in the query’s entities:
+Append the value at the entity (if it exists) to the context string
+7. Prompt the language model to fetch an answer given the closest embeddings, context
+around the entities, and query. The prompt is
+“You are a smart, knowledgeable, accurate AI with the following information: {closest_embeddings} {context}
+You are sure about your answers. Please answer the following question: {query}”
+8. Return the response
+
+## Performance
 The EMENT module outperformed every other memory module in terms of accuracy, even the EMENT module with the smallest amount of embeddings (only k = 3 embeddings). EMENT10 in particular performed the best among all memory modules, with an average accuracy of 0.905 (± 0.06). This outperforms top10 embeddings alone by 15.52% and the best entity extraction approach alone by 49.70%. After conducting a one-sample t-test, we find EMENT10 has a statistically significant better performance than the alternative memory modules.
 
 <strong>EMENT outperformance against other modules</strong>
