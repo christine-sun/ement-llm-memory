@@ -1,0 +1,6 @@
+# EMENT: Enhancing Long-Term Episodic Memory in Large Language Models
+
+This is the source code for EMENT, a research project undertaken with the Princeton University Computer Science department on long-term memory in large language models. 
+
+## Abstract
+Current state-of-the-art large language models exhibit poor long-term episodic memory capabilities across extensive token magnitudes. This independent work examines supplementing language models with a memory module during inference to improve its memory capabilities. Five memory module types serve as individual baselines: embeddings, summarization, entity raw sentences, entity summaries, and knowledge graphs. These modules extend beyond existing prompt pre-pending memory techniques and are assessed for their storage and retrieval effectiveness. Baseline evaluations inform memory module hypotheses, guiding the research and development of complex memory modules. This paper’s key insight, the complementary nature of embedding and entity extraction modules, ultimately culminates in the proposal of EMENT, an optimized memory module with statistically significant performance that surpasses current language model agent limitations. This optimized memory module is promising to advance conversational agents’ capabilities, enhancing user experiences across a multitude of applications.
