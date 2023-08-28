@@ -59,7 +59,7 @@ For every entity in the line’s entities
 If the entity exists in entity_dict, append the line to the value associated with it Else, create a new key with this entity in entity_dict and let the value equal this line
 8. Store the entity_dict in the memory module
 
-### Query
+#### Query
 1. Create a spaCy Doc object for the query string. Store this as new_doc
 2. Find the indices of the k nearest neighbors to the new_doc. distances, indices =
 self.nn.kneighbors([new_doc.vector])
