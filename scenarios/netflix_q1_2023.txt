@@ -1,0 +1,361 @@
+April 18, 2023
+Fellow shareholders,
+Summary:
+● Q1‘23 revenue and operating profit were in-line with our forecast.
+● We delivered a strong content slate in Q1 with:
+○ Successful returning seasons like Outer Banks, You, Ginny & Georgia and a big sequel
+film Murder Mystery 2.
+○ New hits across nearly every genre of TV like The Night Agent (now our 6th most popular
+English language TV show ever), The Glory (our 5th most popular non-English TV show
+ever), Full Swing, That 90s Show and films You People and Luther: The Fallen Sun.
+● With Moody’s recent upgrade, we achieved investment grade status. Netflix is the leading
+streaming service based on engagement, revenue and profit and we are working to build on that
+in ‘23, by seeking to expand operating margin to 18%-20% and to generate at least +$3.5B of
+free cash flow (up from our prior expectation of at least $3.0B of FCF).
+● In Q1, we launched paid sharing in four countries and are pleased with the results. We are
+planning on a broad rollout, including in the US, in Q2.
+● Given current healthy performance and trajectory of our per-member advertising economics,
+particularly in the US, we’re upgrading our ads experience with more streams and improved
+video quality to attract a broader range of consumers.
+In short, we’re off to a good start in 2023. As always, our focus remains pleasing our members and
+attracting great creators so that we can continue to build a wildly successful business.
+(in millions except per share data) Q1'22 Q2'22 Q3'22 Q4'22 Q1'23
+Q2'23
+Forecast
+Revenue $7,868 $7,970 $7,926 $7,852 $8,162 $8,242
+Y/Y % Growth 9.8% 8.6% 5.9% 1.9% 3.7% 3.4%
+Operating Income $1,972 $1,578 $1,533 $550 $1,714 $1,565
+Operating Margin 25.1% 19.8% 19.3% 7.0% 21.0% 19.0%
+Net Income $1,597 $1,441 $1,398 $55 $1,305 $1,283
+Diluted EPS $3.53 $3.20 $3.10 $0.12 $2.88 $2.84
+Global Streaming Paid Memberships 221.64 220.67 223.09 230.75 232.50
+Y/Y % Growth 6.7% 5.5% 4.5% 4.0% 4.9%
+Global Streaming Paid Net Additions -0.20 -0.97 2.41 7.66 1.75
+Net cash provided by operating activities $923 $103 $557 $444 $2,179
+Free Cash Flow* $802 $13 $472 $332 $2,117
+Shares (FD) 453.0 450.2 450.3 451.6 452.4
+1
+Q1 Results
+Revenue grew 4% year over year in Q1 (+8% on a foreign exchange (F/X) neutral basis ), consistent with
+1
+our beginning-of-quarter forecast. Average paid memberships increased 4% year over year, while ARM2
+was -1% vs. Q1’22 (+4% on an F/X neutral basis). Paid net adds amounted to 1.8M for Q1 vs. -0.2M in the
+year ago quarter. Regional highlights include:
+● UCAN revenue grew 8% year over year (both reported and F/X neutral) driven by a 9% increase
+in ARM (both reported and F/X neutral).
+● EMEA revenue was down 2% year over year (+6% on an F/X neutral basis), due primarily to a
+decline of 6% in ARM (+1% on an F/X neutral basis), offset partially by a 4% increase in average
+paid memberships.
+● LATAM revenue increased 7% year over year (+13% F/X neutral), with a 3% rise in ARM (+8% F/X
+neutral). Paid membership dipped by 0.4M, which we believe is due to pull forward from Q4
+(when we had a big quarter with 1.8M paid net adds) and ongoing macroeconomic softness.
+● APAC revenue grew 2% year over year (+10% F/X neutral). Average paid memberships increased
+17% year over year. This offset a 13% decrease in ARM (-6% F/X neutral), which was due to plan
+mix and a higher mix of member growth in countries with lower pricing.
+Operating income totaled $1.7B vs. $2.0B in Q1‘22 - above our guidance forecast of $1.6B due to
+ongoing expense management and timing of hiring and content spend. Operating margin was 21%
+compared to 25% in the year ago period. The year over year decline in operating margin was primarily
+due to F/X - the appreciation of the US dollar accounted for roughly three percentage points of the year
+over year change in operating margin. Q1’23 EPS of $2.88 (vs. $3.53 in Q1‘22) was in-line with our
+guidance of $2.82 and included an $81 million non-cash unrealized loss from F/X remeasurement on our
+Euro denominated debt.
+Forecast
+Our primary financial metrics are revenue for growth and operating margin for profitability. Our long
+term financial objectives are unchanged - sustain double digit revenue growth, expand operating margin
+and deliver growing positive free cash flow. The quarterly guidance we provide is our actual internal
+forecast at the time we report. We strive for accuracy although the rollout of major new initiatives (paid
+sharing and ads) leads to less-than-normal visibility.
+We’re on track to meet our full year 2023 financial objectives. For Q2’23, we forecast revenue of $8.2B,
+up 3% year over year, or 6% growth on an F/X neutral basis. We’re pleased with the most recent
+launches of paid sharing, and while we could have launched broadly in Q1, we found opportunities to
+improve the experience for members. We learn more with each rollout and we’ve incorporated the
+latest learnings, which we think will lead to even better results. To implement these changes, we shifted
+2 ARM (Average Revenue per Membership) is defined as streaming revenue divided by the average number of
+streaming paid memberships divided by the number of months in the period. These figures do not include sales
+taxes or VAT.
+1 Excluding the year over year effect of foreign exchange rate movements. Assumes foreign exchange rates
+remained constant with foreign exchange rates from each of the corresponding months of the prior-year period.
+2
+out the timing of the broad launch from late Q1 to Q2. While this means that some of the expected
+membership growth and revenue benefit will fall in Q3 rather than Q2, we believe this will result in a
+better outcome for both our members and our business (more details in the Monetization and Revenue
+section). The majority of our year over year F/X neutral revenue growth in Q2 is expected to come from
+growth in our paid membership base. This translates into Q2 paid net adds that are roughly similar to
+Q1’23 and a slight increase in year over year F/X neutral ARM (limited price increases during paid sharing
+rollout).
+We forecast Q2’23 operating income of $1.6B (roughly flat year over year) and an operating margin of
+19% vs. 20% in Q2’22. The year over year decline in operating margin is attributable to the appreciation
+of the US dollar against most other currencies over the past year.
+We expect constant currency revenue growth to accelerate over the course of the second half of 2023 as
+we continue to improve our service, more broadly roll out paid sharing in Q2 and grow our advertising
+business. We also expect year over year operating profit growth and operating margin expansion for the
+full year (assuming no material swings in F/X). We’re still targeting a 2023 operating margin of 18%-20%,
+based on F/X rates as of January 1, 2023.
+We believe our ability to deliver on our long term financial targets will hinge on 1) growing engagement
+and 2) improving our monetization to fuel revenue growth and increased profitability.
+Engagement
+Engagement is important to success in streaming because it drives both retention (increased member
+3
+satisfaction) and acquisition (greater word of mouth). The third party data in the chart below shows that
+Netflix and YouTube are the clear leaders in streaming engagement – and that the opportunity ahead is
+significant as streaming still accounts for the minority of viewing in every country. We remain highly
+confident that streaming’s share of engagement will continue to grow at the expense of linear since it
+offers a better experience (on demand, availability across devices). We believe this gives Netflix
+tremendous room for growth if we can continue to improve our service – increasing our share of total
+viewing by multiples higher than today’s 2-4% share in Brazil, Mexico and Poland, or 7- 9% share in the
+US and the UK.
+3 For View Hours for titles, please visit Netflix Top 10.
+3
+Source: Nielsen (US, Mexico, Poland), Kantar (Brazil), BARB (UK). The UK measures viewing across four screens (TV, smart phone,
+tablet and laptop), all others are TV only.
+As our Netflix Top 10 lists show, people have very diverse tastes. To please our members we need to
+connect them with a title they’ll love in that moment – whether it’s an elevated drama, comedy, action
+adventure or reality show, versus simply engagement for engagement’s sake. The more we can
+consistently deliver the right titles to the right audiences at the right time, the more our members will
+choose Netflix when they next turn on their TV or recommend our service to their friends. It’s a virtuous
+flywheel, which is why our content teams are so focused on working with the best creators, and the
+variety and quality of our slate. In March, for example, All Quiet on the Western Front (the Oscar and
+BAFTA winning film) and Too Hot To Handle Germany hit our German Top 10 – two very different must
+watch, much loved titles that speak to the breadth of our programming ambitions.
+In Q1, we had several big returning series and films – demonstrating our growing ability to develop
+stories across genres – including Outer Banks S3, You S4, Ginny & Georgia S2, Soy Georgina S2, The
+Glory’s new installment and a big sequel to our hit film Murder Mystery. Building anticipation and buzz
+before and after titles premiere is a key goal for our Marketing team as it helps drive acquisition and
+retention. For example, excitement for Murder Mystery 2 drove the original film back into the top 10. For
+Outer Banks S3, we held our first ever live music event – Poguelandia – to drive fandom, with the title
+generating 2.2B social impressions to date, just ahead of You S4 with 2.1B. Our unique ability to connect
+creators with huge audiences of passionate fans through our near global reach, personalization,
+innovative marketing and publicity are key reasons storytellers want to tell their stories on Netflix.
+In addition, we successfully launched big new titles across a broad variety of genres – including The Night
+Agent, La chica de nieve, Rana Naidu, and the movie Kill Boksoon all in the thriller/action space, the golf
+docu series Full Swing and new dating show Perfect Match. These series are all being renewed for
+subsequent seasons. We’re also starting to find greater success in scripted comedies with the returning
+4
+season of The Upshaws and the Q1 debut of That 90’s Show (a spinoff of That 70’s Show), Machos Alfas
+and En Place. Similarly, our Q1 film offering included You People (with Jonah Hill and Eddie Murphy), the
+romantic comedy Your Place or Mine (starring Ashton Kutcher and Reese Witherspoon), as well as
+Murder Mystery 2 (featuring Adam Sandler and Jennifer Aniston). In stand-up, Chris Rock’s Selective
+Outrage – now the most-streamed comedy special of all time in the US according to Nielsen – was one of
+our buzziest titles this quarter.
+Monetization and Revenue
+As we improve our member experience with more must watch stories, we also need to improve our
+monetization. This will not only help reaccelerate revenue growth and increase operating margin, it will
+also enable us to invest more in great entertainment.
+We want to be more sophisticated around pricing so that we offer a range of price points and feature
+sets to suit consumers’ differing needs. For example, when we launched globally in 2016, we took a fairly
+uniform approach to pricing across most countries given our focus on early adopters. Over time we’ve
+adapted our prices to meet local needs and to further deepen our penetration, including lowering prices
+in India by 20%-60% in December ‘21. These reductions – combined with an improved slate – helped
+grow engagement in India by nearly 30% year on year while F/X neutral revenue growth in 2022
+accelerated to 24% (versus 19% in 2021). Learning from this success, we reduced prices in an additional
+116 countries in Q1. While they represented less than 5% of our FY‘22 revenue, we believe that
+increasing adoption in these markets will help to maximize our revenue longer term.
+Similarly, our new ads plan allows us to offer consumers a lower price point. While it’s still very early
+days, we continue to be pleased with our progress across all key dimensions: member experience, value
+to advertisers and incremental contribution to our business. Engagement on our ads tier is above our
+initial expectations and, as expected, we’ve seen very little switching from our standard and premium
+plans. Also, thanks to our most recent set of licensing deals, our ad-supported plan now has on average
+~95% content parity globally (by viewing) with our ads-free plans, including all the latest Netflix shows
+and movies. On the advertiser side, we are launching a programmatic private marketplace to enable
+more buying options for Netflix ad inventory using Microsoft’s sales platform. Our partnerships with
+Integral Ad Science and Double Verify are also now live – validating campaign engagement of ads
+viewership on Netflix.
+We are pleased with the current performance and trajectory of our per-member advertising economics.
+In the US for instance, our ads plan already has a total ARM (subscription + ads) greater than our
+standard plan. So this month we’ll upgrade the feature set of our ads plan to include 1080p versus 720p
+video quality and two concurrent streams in all 12 ads markets – starting with Canada and Spain today.
+We believe these enhancements will make our offering even more attractive to a broader set of
+consumers and further strengthen engagement for existing and new subscribers to the ads plan.
+Paid sharing is another important initiative as widespread account sharing (100M+ households)
+undermines our ability to invest in and improve Netflix for our paying members, as well as build our
+business. We’re pleased with the results of our Q1 launches in Canada, New Zealand, Spain and Portugal,
+strengthening our confidence that we have the right approach. As with Latin America, we see a cancel
+5
+reaction in each market when we announce the news, which impacts near term member growth. But as
+borrowers start to activate their own accounts and existing members add “extra member” accounts, we
+see increased acquisition and revenue. For example, in Canada, which we believe is a reliable predictor
+for the US, our paid membership base is now larger than prior to the launch of paid sharing and revenue
+4
+growth has accelerated and is now growing faster than in the US.
+With each launch, we learn more about how best to roll out these changes and what matters to
+members the most, in particular maintaining travel/watching on the go and the ability for people to
+better control access to their accounts as well as transfer profiles to separate accounts. We could have
+launched broadly in late Q1, but we found enough improvement opportunities in these areas to shift a
+broad launch to Q2 to implement those changes. As noted above, while this will shift some of the
+membership growth and revenue benefit from Q2 to Q3, we believe it will result in a better outcome for
+our members and our business. Longer term, paid sharing will ensure a bigger revenue base from which
+we can grow as we improve our service.
+As a reminder, as we roll out paid sharing – and as some borrowers stop watching either because they
+don’t convert to extra members or full paying accounts – near term engagement, as measured by third
+parties like Nielsen, will likely shrink modestly. However, we believe the pattern will be similar to what
+we’ve seen in Latin America, with engagement growth resuming over time as we continue to improve
+our programming and borrowers sign-up for their own accounts.
+Competition
+Competition remains intense as we compete with so many forms of entertainment (linear TV, gaming,
+user generated content, premium streaming content, and social media to name just a few). Among our
+streaming video competitors, our traditional entertainment peers appear to be focused on revenue
+diversification (across theatrical, linear TV and third party licensing) as they manage through the hard
+transition from legacy businesses to streaming – whereas we are “all in” on streaming and already
+generating significant profit and free cash flow. The large tech companies continue to invest heavily in
+streaming, with a particular focus on live sports recently. We don’t focus too much on the competition
+because we've learned over the years that consistently great execution (better movies, TV series, and
+now games, better discovery and buzzier, more creative marketing) is the key to our long term success.
+We succeed by getting a bit better, a bit faster than the competition every month.
+Cash Flow and Capital Structure
+Net cash generated by operating activities in Q1 was $2.2B vs. $0.9B in the prior year period. Free cash
+flow (FCF) in Q1 totaled $2.1B compared with $0.8B in last Q1. Assuming no material swings in F/X, we
+5
+now expect at least $3.5B of FCF for the full year 2023, up from our prior expectation of at least $3.0B.
+This reflects lower cash spend on content than we originally forecasted, resulting in a year over year
+decrease in cash content spend (bringing our 2023 cash content to content amortization ratio closer to
+5 Defined as cash provided by (used in) operating activities less purchases of property and equipment and change in
+other assets.
+4 Our paid membership count does not include “extra members.” Instead, they lift ARM.
+6
+1.0x in 2023). For 2024, we still expect our cash content spend to be in the range of roughly $17B,
+consistent with our prior expectations for the 2022-2024 period.
+In Q1, Moody’s upgraded our credit rating to Baa3. Combined with our BBB credit rating from S&P, we
+are now investment grade. Gross debt at quarter end totaled $14.5B, in-line with our targeted range of
+$10-$15B. With cash and short term investments of $7.8B, net debt totaled $6.7B, or 1.1x LTM EBITDA.
+6
+Our capital structure policy is unchanged. The first priority for our cash is to reinvest in our core business
+and to fund new opportunities like gaming and ads, followed by selective acquisitions. We target
+maintaining minimum cash equivalent to roughly two months of revenue (e.g., about $5.4B based on Q1
+revenue). After meeting those needs, we anticipate returning cash to stockholders through share
+repurchases. We bought back 1.2M shares for $400M in Q1. We currently expect to accelerate our share
+repurchases over the course of 2023.
+Environmental, Social, and Governance (ESG)
+We recently published an update on progress in our sustainability program. We continue the work to
+decarbonize our operations and we’ve delivered on our commitment to net all remaining emissions to
+zero by the end of 2022 through investing in nature-based projects that capture carbon.
+DVD
+After an incredible 25 year run, we’ve decided to wind down DVD.com later this year. Our goal has
+always been to provide the best service for our members but as the DVD business continues to shrink
+that’s going to become increasingly hard. So we want to go out on a high, and will be shipping our final
+DVDs on September 29, 2023. From the very beginning, our members loved the choice and control that
+direct-to-consumer entertainment offered, including the variety and quality of our titles and the ability
+to binge watch entire series. DVD paved the way for streaming, ensuring that so much of what we
+started will continue long into the future. We feel so privileged to have been able to share movie nights
+with our DVD members for so long, so proud of what our employees have achieved and excited to
+continue pleasing entertainment fans for many more decades to come. Thanks to all our employees over
+the years that worked so hard to build the booster rocket that got streaming to a leading position.
+Reference
+For quick reference, our eight most recent investor letters are: January 2023, October 2022, July 2022,
+April 2022, January 2022, October 2021, July 2021, April 2021.
+6 Defined as net debt divided by last twelve months (LTM) adjusted EBITDA (net income before interest expense
+and other income/expense, income taxes, depreciation and amortization of property, plant and equipment and
+further adjusted to exclude other non-cash charges).
+7
+Regional Breakdown
+(in millions) Q1'22 Q2'22 Q3'22 Q4'22 Q1'23
+UCAN Streaming:
+Revenue $3,350 $3,538 $3,602 $3,595 $3,609
+Paid Memberships 74.58 73.28 73.39 74.30 74.40
+Paid Net Additions (0.64) (1.30) 0.10 0.91 0.10
+Average Revenue per Membership $14.91 $15.95 $16.37 $16.23 $16.18
+Y/Y % Growth 5% 10% 12% 10% 9%
+F/X Neutral Y/Y % Growth 5% 10% 12% 10% 9%
+EMEA:
+Revenue $2,562 $2,457 $2,376 $2,350 $2,518
+Paid Memberships 73.73 72.97 73.53 76.73 77.37
+Paid Net Additions (0.30) (0.77) 0.57 3.20 0.64
+Average Revenue per Membership $11.56 $11.17 $10.81 $10.43 $10.89
+Y/Y % Growth 0% -4% -7% -10% -6%
+F/X Neutral Y/Y % Growth 6% 6% 7% 5% 1%
+LATAM:
+Revenue $999 $1,030 $1,024 $1,017 $1,070
+Paid Memberships 39.61 39.62 39.94 41.70 41.25
+Paid Net Additions (0.35) 0.01 0.31 1.76 (0.45)
+Average Revenue per Membership $8.37 $8.67 $8.58 $8.30 $8.60
+Y/Y % Growth 13% 16% 9% 2% 3%
+F/X Neutral Y/Y % Growth 20% 15% 16% 7% 8%
+APAC:
+Revenue $917 $908 $889 $857 $934
+Paid Memberships 33.72 34.80 36.23 38.02 39.48
+Paid Net Additions 1.09 1.08 1.43 1.80 1.46
+Average Revenue per Membership $9.21 $8.83 $8.34 $7.69 $8.03
+Y/Y % Growth (5%) -9% -13% -17% -13%
+F/X Neutral Y/Y % Growth 1% -2% -3% -4% -6%
+F/X Neutral ARM growth excludes the year over year effect of foreign exchange rate movements. Assumes foreign exchange
+rates remained constant with foreign exchange rates from each of the corresponding months of the prior-year period.
+8
+F/X Neutral Operating Margin Disclosure
+To provide additional transparency around our operating margin, we disclose each quarter our
+year-to-date (YTD) operating margin based on F/X rates at the beginning of each year. This will allow
+investors to see how our operating margin is tracking against our target (which was set in January of
+2023 based on F/X rates at that time), absent intra-year fluctuations in F/X.
+$'s in Millions Full Year 2020 Full Year 2021 Full Year 2022 YTD 2023
+As Reported
+Revenue $24,996 $29,698 $31,616 $8,162
+Operating Expenses $20,411 $23,503 $25,983 $6,447
+Operating Profit $4,585 $6,195 $5,633 $1,714
+Operating Margin 18.3% 20.9% 17.8% 21.0%
+FX Impact
+Revenue $(560) $(404) $(962) $14
+Operating Expenses $(71) $(82) $(214) $3
+Operating Profit $(489) $(322) $(748) $11
+Adjusted*
+Revenue $25,556 $30,102 $32,578 $8,148
+Operating Expenses $20,482 $23,585 $26,196 $6,444
+Operating Profit $5,074 $6,517 $6,381 $1,704
+Restructuring Charges $150
+Operating Profit x-Restructuring $5,074 $6,517 $6,531 $1,704
+Operating Margin 19.9% 21.6% 20.0% 20.9%
+* Based on F/X rates at the beginning of each year. Note: Excludes F/X impact on content amortization, as titles are amortized at
+a historical blended rate based on timing of spend. YTD 2023 through March 31, 2023.
+April 18, 2023 Earnings Interview, 3pm PT
+Our video interview with Jessica Reif Ehrlich, BofA Securities will be on youtube/netflixir at 3pm PT
+today. Questions that investors would like to see asked should be sent to jessica.reif@bofa.com.
+Co-CEOs Ted Sarandos and Greg Peters, CFO Spence Neumann and VP of Finance/IR/Corporate
+Development Spencer Wang, will all be on the video to answer Jessica’s questions.
+9
+IR Contact:
+Spencer Wang
+VP, Finance/IR & Corporate Development
+408 809-5360
+PR Contact:
+Emily Feingold
+Vice President, Corporate Communications
+323 287-0756
+Use of Non-GAAP Measure
+This shareholder letter and its attachments include reference to the non-GAAP financial measures of F/X
+neutral revenue and operating margin, free cash flow, last twelve months (“LTM”) EBITDA, and adjusted
+EBITDA. Management believes that free cash flow, LTM EBITDA and adjusted EBITDA are important
+liquidity metrics because they measure, during a given period, the amount of cash generated that is
+available to repay debt obligations, make strategic acquisitions and investments and for certain other
+activities like stock repurchases. Management believes that F/X neutral revenue and operating margin
+allow investors to compare our projected results to our actual results absent intra-year currency
+fluctuations. However, these non-GAAP financial measures should be considered in addition to, not as a
+substitute for or superior to, net income, operating income, operating margin, diluted earnings per share
+and net cash provided by (used in) operating activities, or other financial measures prepared in
+accordance with GAAP. Reconciliation to the GAAP equivalent of these non-GAAP measures are
+contained in tabular form on the attached unaudited financial statements. We are not able to reconcile
+forward-looking non-GAAP financial measures because we are unable to predict without unreasonable
+effort the exact amount or timing of the reconciling items, including property and equipment and change
+in other assets, and the impact of changes in currency exchange rates. The variability of these items
+could have a significant impact on our future GAAP financial results.
+Forward-Looking Statements
+This shareholder letter contains certain forward-looking statements within the meaning of the federal
+securities laws, including statements regarding our expected results for the fiscal quarter ending June 30,
+2023 and fiscal year ending December 31, 2023; adoption and growth of streaming entertainment;
+growth outlook and market opportunity; competitive position; core strategy and business model;
+content offerings; our games strategy; monetization through pricing and tiering structures, including paid
+sharing; ad-supported tier and its prospects; product features; our competitors’ performance; impact of
+foreign exchange rates; seasonality; cash balance and spend; stock repurchases; paid net additions,
+membership growth and retention; engagement; consolidated revenue, revenue and ARM growth,
+operating income, operating margin, net income, content amortization, and earnings per share;
+emissions commitments; advertising; and free cash flow. The forward-looking statements in this letter
+are subject to risks and uncertainties that could cause actual results and events to differ, including,
+without limitation: our ability to attract new members and retain existing members; our ability to
+compete effectively, including for consumer engagement with different modes of entertainment; timing
+and adoption of the ads plan and paid sharing; maintenance and expansion of device platforms for
+streaming; fluctuations in consumer usage of our service; service disruptions; production risks;
+macroeconomic conditions and timing of content releases. A detailed discussion of these and other risks
+and uncertainties that could cause actual results and events to differ materially from such
+forward-looking statements is included in our filings with the Securities and Exchange Commission,
+including our Annual Report on Form 10-K, filed with the Securities and Exchange Commission (“SEC”) on
+10
+January 26, 2023. The Company provides internal forecast numbers. Investors should anticipate that
+actual performance will vary from these forecast numbers based on risks and uncertainties discussed
+above and in our Annual Report on Form 10-K. We undertake no obligation to update forward-looking
+statements to reflect events or circumstances occurring after the date of this shareholder letter.

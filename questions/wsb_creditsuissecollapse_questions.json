@@ -1,0 +1,78 @@
+{
+    "open-ended": [
+        {
+        "question": "What event is considered a prelude to the meltdown of the investment banking industry?",
+        "answer": "The collapse of Credit Suisse."
+        },
+        {
+        "question": "When did the global financial crisis occur?",
+        "answer": "The global financial crisis occurred in 2023."
+        },
+        {
+        "question": "What did Credit Suisse cease using in January 2024?",
+        "answer": "In January 2024, UBS ceased using the Credit Suisse name."
+        },
+        {
+        "question": "What is the main difference between the causes of the 2008 financial crisis and the current situation?",
+        "answer": "The main difference is that the 2008 crisis was caused by worthless assets due to sub-prime loans (CDOs), while the current situation seems to involve a liquidity crunch on a zombie bank."
+        },
+        {
+        "question": "What movie is mentioned as a reference to the current financial situation?",
+        "answer": "The movie \"Too Big to Fail\" is mentioned as a reference to the current financial situation."
+        },
+        {
+        "question": "What type of asset is considered toxic in the current financial crisis?",
+        "answer": "10-year Treasuries are considered the toxic asset in this crisis."
+        },
+        {
+        "question": "What did Warren Buffet do in 2008 regarding bailing out banks?",
+        "answer": "In 2008, Warren Buffet declined to help bail out banks because he saw what was coming."
+        },
+        {
+        "question": "What was one reason the 2008 financial crisis occurred?",
+        "answer": "One reason the 2008 financial crisis occurred was because banks were loaning 4x values on homes."
+        },
+        {
+        "question": "What is one way the Fed is responding to the current financial situation?",
+        "answer": "The Fed is trying to contain the situation by pulling all the stops."
+        },
+        {
+        "question": "When is the speculated true collapse of the financial system?",
+        "answer": "The speculated true collapse is in March 2024."
+        }
+    ],
+    "binary": [
+        {
+        "question": "Did the collapse of Credit Suisse lead to a meltdown in the investment banking industry? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is the current financial situation exactly the same as the 2008 financial crisis? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Did the 2008 financial crisis have prior experience to guide them through the events? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Is the 2023 global financial crisis caused by worthless assets in the form of CDOs? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Did Warren Buffet help bail out banks in 2008? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Are 10-year Treasuries considered toxic assets in the current financial crisis? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is the strong job market mentioned as a factor that differentiates the current situation from the 2008 crisis? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is the current financial crisis caused by a liquidity crunch on a zombie bank rather than rotten and worthless MBS assets? Answer with Yes or No.",
+        "answer": "Yes"
+        }
+    ]
+}

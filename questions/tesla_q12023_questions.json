@@ -1,0 +1,40 @@
+{
+    "open-ended": [
+      {
+        "question": "What is Tesla's focus for 2023?",
+        "answer": "Tesla's focus for 2023 includes rapidly growing production, investments in autonomy and vehicle software, and remaining on track with growth investments."
+      },
+      {
+        "question": "What was the total energy storage deployment for Tesla in Q1 2023?",
+        "answer": "In Q1 2023, Tesla's energy storage deployments increased by 360% YoY to 3.9 GWh."
+      },
+      {
+        "question": "How many vehicles does Tesla expect to produce in 2023?",
+        "answer": "Tesla expects to produce around 1.8 million cars in 2023."
+      },
+      {
+        "question": "Where is Tesla launching its second 40 GWh Megafactory?",
+        "answer": "Tesla is launching its second 40 GWh Megafactory in Shanghai, with construction starting later this year."
+      },
+      { "question": "How did Telsa's solar deployments perform in Q1 2023?", "answer": "Tesla's solar deployments increased by 40% YoY in Q1 2023 to 67 MW, but declined sequentially in the quarter, predominantly due to volatile weather and other factors." }, { "question": "What are some of Tesla's plans for the Supercharging network?", "answer": "Tesla plans to grow the Supercharging network and gradually open it up to non-Tesla vehicles, which will contribute to the growth of their Services business." }, { "question": "How is Tesla managing its pricing strategy?", "answer": "Tesla's pricing strategy takes a long-term view on per vehicle profitability considering the potential lifetime value of a vehicle through autonomy, Supercharging, connectivity, and service. Tesla expects its product pricing to evolve, upwards or downwards, depending on various factors." }, { "question": "What is Tesla's goal for its operating margin?", "answer": "Tesla aims to maintain its operating margin among the highest in the industry while executing on innovations to reduce manufacturing and operational costs over time." }
+    ],
+    "binary": [
+      {
+        "question": "Did Tesla post GAAP net income of $2.5B in Q1 2023? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Was Model Y the best-selling vehicle in Europe and the US in Q1 2023? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Did Tesla enable the latest FSD Beta software stack for highway driving in Q1 2023? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is Cybertruck production still on track to begin in 2023 at Gigafactory Texas? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      { "question": "Did Tesla showcase 4680 cell production at its March 2023 Investor Day? Answer with Yes or No.", "answer": "Yes" }, { "question": "Has the Model Y production line in Germany produced over 5,000 vehicles in a week towards the end of Q1 2023? Answer with Yes or No.", "answer": "Yes" }, { "question": "Is Tesla launching its second Megafactory in Shanghai in line with its ongoing growth investments? Answer with Yes or No.", "answer": "Yes" }, { "question": "Has Tesla launched its home-grown Recruitment and Employee Health & Safety platforms as part of the broader Tesla OS ecosystem? Answer with Yes or No.", "answer": "Yes" }
+    ]
+  }

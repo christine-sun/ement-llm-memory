@@ -1,0 +1,78 @@
+{
+    "open-ended": [
+        {
+            "question": "Which series and films from Q3 had the most significant impact on Netflix?",
+            "answer": "Monster: The Jeffrey Dahmer Story, Stranger Things S4, Extraordinary Attorney Woo, The Gray Man, and Purple Hearts had the most significant impact on Netflix in Q3."
+        },
+        {
+            "question": "In which countries will Netflix launch their lower-priced ad-supported plan?",
+            "answer": "Netflix will launch their lower-priced ad-supported plan in 12 countries, including Canada, Mexico, Australia, Brazil, France, Germany, Italy, Japan, Korea, the UK, the US, and Spain."
+        },
+        {
+            "question": "What is Netflix's approach to account sharing monetization?",
+            "answer": "Netflix plans to offer borrowers the ability to transfer their profiles into their own accounts and allow sharers to manage devices easily and create sub-accounts (extra members) to pay for family or friends. This will roll out more broadly starting in early 2023."
+        },
+        {
+            "question": "How has the appreciation of the US dollar affected Netflix's financials?",
+            "answer": "The appreciation of the US dollar has negatively impacted Netflix's full-year 2022 revenue and operating income by approximately $1 billion and $0.8 billion, respectively."
+        },
+        {
+            "question": "What is Netflix's long-term goal?",
+            "answer": "Netflix's long-term goal is to sustain double-digit revenue growth, increase operating profit even faster (expanding margins), and deliver growing positive free cash flow."
+        },
+        {
+            "question": "How much has Netflix seen in year-over-year revenue growth in Q3?",
+            "answer": "Netflix saw a 6% year-over-year revenue growth in Q3."
+        },
+        {
+            "question": "What metrics will be provided in Netflix's Q4'22 letter?",
+            "answer": "Netflix's Q4'22 letter will provide guidance for revenue, operating income, operating margin, net income, EPS, and fully diluted shares outstanding for the following quarter but not paid membership."
+        },
+        {
+            "question": "What contributed to the 6% year-over-year revenue growth in Q3?",
+            "answer": "The 6% year-over-year revenue growth in Q3 was driven by a 5% increase in average paid memberships and a 1% rise in ARM."
+        },
+        {
+            "question": "Which streaming service has the highest engagement in the UK?",
+            "answer": "Netflix has the highest engagement among streaming services in the UK."
+        },
+        {
+            "question": "What is the main focus of Netflix's marketing strategy?",
+            "answer": "The main focus of Netflix's marketing strategy is to drive conversation around their titles, which in turn boosts engagement for Netflix."
+        }
+    ],
+    "binary": [
+        {
+            "question": "Is Netflix discontinuing its existing ad-free plans? Answer with Yes or No.",
+            "answer": "No"
+        },
+        {
+            "question": "Did Netflix's Q3 results exceed their forecast? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are Netflix's competitors currently profitable in streaming? Answer with Yes or No.",
+            "answer": "No"
+        },
+        {
+            "question": "Has Netflix acquired animation studio Animal Logic? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is Netflix planning to launch an ad-supported subscription plan? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is Netflix's gaming launch older than one year? Answer with Yes or No.",
+            "answer": "No"
+        },
+        {
+            "question": "Is Q4 typically Netflix's lowest operating margin quarter of the year? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Does Netflix attribute its success to a pure-play streaming business focus? Answer with Yes or No.",
+            "answer": "Yes"
+        }
+    ]
+}

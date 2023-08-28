@@ -1,0 +1,10 @@
+AI: Hello, how are you doing today?
+YOU: I'm okay, my cat Mimi is sick though.
+AI: Oh no, why is Mimi sick?
+YOU: It's because Mimi loves eating lemons, but she always gets so sick when she eats them.
+AI: That's too bad. What are you doing to take care of Mimi?
+YOU: Well, I am just letting Mimi sleep some more. She's always so sleepy anyway that I can't tell if it's helping or not.
+AI: Can you tell me more about Mimi?
+YOU: Yeah! Mimi is a ginger cat and she likes to swim.
+AI: When did you first meet Mimi?
+YOU: I adopted Mimi last May, and she has been such a cuddly companion ever since!

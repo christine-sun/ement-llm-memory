@@ -1,0 +1,83 @@
+Our revenue growth has slowed considerably as our results and forecast below show.
+Streaming is winning over linear, as we predicted, and Netflix titles are very popular globally.
+However, our relatively high household penetration - when including the large number of households sharing accounts - combined with competition, is creating revenue growth headwinds.
+The big COVID boost to streaming obscured the picture until recently.
+While we work to reaccelerate our revenue growth - through improvements to our service and more effective monetization of multi-household sharing - we’ll be holding our operating margin at around 20%.
+Key to our success has been our ability to create amazing entertainment from all around the world, present it in highly personalized ways, and win more viewing than our competitors.
+These are Netflix's core strengths and competitive advantages.
+Together with our strong profitability, we believe we have the foundation from which we can both significantly improve, and better monetize, our service longer term.
+Growth Outlook Since launching streaming in 2007, we’ve operated under the firm belief that internet-delivered, on demand entertainment will supplant linear TV, and that this transition represents a once-in-a-generation opportunity to build a highly popular and profitable entertainment company.
+People love movies, TV shows and games; broadband and smart TV penetration continue to grow globally with more and more connected devices; and while hundreds of millions of homes pay for Netflix, well over half of the world’s broadband homes don’t yet, representing huge future growth potential.
+In the near term though, we’re not growing revenue as fast as we’d like.
+COVID clouded the picture by significantly increasing our growth in 2020, leading us to believe that most of our slowing growth in 2021 was due to the COVID pull forward.
+Now, we believe there are four main inter-related factors at work.
+First, it’s increasingly clear that the pace of growth into our underlying addressable market (broadband homes) is partly dependent on factors we don’t directly control, like the uptake of connected TVs (since the majority of our viewing is on TVs), the adoption of on-demand entertainment, and data costs.
+We believe these factors will keep improving over time, so that all broadband households will be potential Netflix customers.
+Second, in addition to our 222m paying households, we estimate that Netflix is being shared with over 100m additional households, including over 30m in the UCAN region.
+Account sharing as a percentage of our paying membership hasn’t changed much over the years, but, coupled with the first factor, means it’s harder to grow membership in many markets - an issue that was obscured by our COVID growth.
+Third, competition for viewing with linear TV as well as YouTube, Amazon, and Hulu has been robust for the last 15 years.
+However, over the last three years, as traditional entertainment companies realized streaming is the future, many new streaming services have also launched.
+While our US television viewing share, for example, has been steady to up according to Nielsen, we want to grow that share faster.
+Higher view share is an indicator of higher satisfaction, which supports higher retention and revenue.
+Fourth, macro factors, including sluggish economic growth, increasing inflation, geopolitical events such as Russia’s invasion of Ukraine, and some continued disruption from COVID are likely having an impact as well.
+Our plan is to reaccelerate our viewing and revenue growth by continuing to improve all aspects of Netflix - in particular the quality of our programming and recommendations, which is what our members value most.
+On the content side, we’re doubling down on story development and creative excellence, which we see reflected in big Q1’22 TV hits like Bridgerton (627 million hours viewed for season 2 *, our 1 biggest English language series in our history) and Inventing Anna (512m hours viewed) - both from our extremely successful partnership with Shonda Rhimes - and films like Tinder Swindler (166m hours viewed, our biggest documentary film ever released) and The Adam Project (233m hours viewed), which come on the back of our Q4 hits Red Notice and Don’t Look Up.
+On the product side, we recently launched “double thumbs up” so members can better express what they truly love versus simply like - enabling us to continue to improve our personalized recommendations and overall experience.
+This focus on continuous improvement has served us well over the past 25 years - from our big battle with Blockbuster nearly 20 years ago through the launch and growth of streaming, to the switch from licensed second run TV series and films to original programming, and our development from a domestic business with primarily English language content to a global entertainment service.
+It’s why we are now the largest subscription streaming service in the world on all key metrics: paid memberships, engagement, revenue and profit.
+Another focus is how best to monetize sharing - the 100M+ households using another household’s account.
+This is a big opportunity as these households are already watching Netflix and enjoying our service.
+Sharing likely helped fuel our growth by getting more people using and enjoying Netflix.
+And we've always tried to make sharing within a member’s household easy, with features like profiles and multiple streams.
+While these have been very popular, they’ve created confusion about when and how Netflix can be shared with other households.
+So early last year we started testing different approaches to monetize sharing and, in March, introduced two new paid sharing features, where current members have the choice to pay for additional households, in three markets in Latin America.
+There’s a broad range of engagement when it comes to sharing households from high to occasional viewing.
+So while we won’t be able to monetize all of it right now, we believe it’s a large short- to mid-term opportunity.
+As we work to monetize sharing, growth in ARM, revenue and viewing will become more important indicators of our success than membership growth.
+Over the longer term, much of our growth will come from outside the US.
+Traditionally, US entertainment companies have viewed “international” as an export market for US content.
+But we saw long ago that great stories can be made anywhere and loved everywhere - dramatically broadening the pool of creators with whom we can work, increasing the variety of our programming and better serving local tastes.
+To support this, we’ve been building out capabilities like creative development, personalization, and language presentation/localization.
+Netflix is now producing films and TV in more than 50 countries with a high degree of integration in the local entertainment ecosystem resulting in the creation of blockbusters from every region.
+In fact, three out of our six most popular TV seasons of all time are non-English language titles: Squid Game, La Casa de Papel Part 4 and All Of Us Are Dead, which launched in Q1’22 and has accumulated 561m hours viewed in its first four weeks.
+So an important focus is working to extend our lead in this area.
+Our goal is to sustain double digit revenue growth, increase operating income even faster (as we expand margins) and generate growing positive free cash flow (FCF).
+During this period of slower revenue growth, assuming no material swings in foreign exchange (F/X), we aim to protect our profitability and manage to a minimum operating margin roughly in line with current levels (i.
+e.
+, this year’s 19-20% guidance).
+Once we’ve re-accelerated revenue growth, we’re committed to steadily growing our operating margin.
+Q1 Results and Q2 Forecast Our 10% revenue growth in Q1’22 was driven by an 8% year over year increase in average streaming paid memberships and 2% year over year growth in ARM.
+Excluding a F/X impact of -$280 million, year over 2 year revenue and ARM growth were +14% and +6%, respectively.
+Operating income of $2.0 billion was above our beginning of quarter forecast of $1.8 billion due to lower than projected content expense.
+EPS of $3.53 vs. $3.75 a year ago included a $162 million non-cash unrealized gain from F/X remeasurement on our Euro denominated debt.
+Paid net additions were -0.2m compared against our guidance forecast of 2.5m and 4.0m in the same quarter a year ago.
+The suspension of our service in Russia and winding-down of all Russian paid memberships resulted in a -0.7m impact on paid net adds; excluding this impact, paid net additions totaled +0.5m.
+The main challenge for membership growth is continued soft acquisition across all regions.
+Retention was also slightly lower relative to our guidance forecast, although it remains at a very healthy level (we believe among the best in the industry).
+Recent price changes are largely tracking in-line with our expectations and remain significantly revenue positive.
+In EMEA (-0.3M paid net adds, or +0.4m excluding the Russia impact), we saw a slowdown in our business in Central and Eastern Europe in March, coinciding with Russia’s invasion of Ukraine.
+Paid net additions in LATAM totaled -0.4M; similar to recent quarters, we believe a combination of forces including macroeconomic weakness and our price changes (F/X neutral ARM grew 20% year over year) were a drag on our membership growth.
+UCAN paid net adds of -0.6M was largely the result of our price change which is tracking in-line with our expectations and is significantly revenue positive.
+We’re making good progress in APAC where we are seeing nice growth in a variety of markets including Japan, India, Philippines, Thailand and Taiwan.
+As a reminder, the quarterly guidance we provide is our actual internal forecast at the time we report.
+For Q2’22, we forecast paid net additions of -2.0m vs. +1.5m in the year ago quarter.
+Our forecast assumes our current trends persist (such as slow acquisition and the near term impact of price changes) plus typical seasonality (Q2 paid net adds are usually less than Q1 paid net adds).
+We project revenue to grow approximately 10% year over year in Q2, assuming roughly a mid-to-high single digit year over year increase in ARM on a F/X neutral basis.
+We still target a 19%-20% operating margin for the full year 2022, assuming no material swings in F/X rates from when we set this goal in January of 2022. Cash Flow and Capital Structure Net cash generated by operating activities in Q1 was $923 million vs. $777 million in the prior year period.
+Free cash flow amounted to $802 million vs. $692 million.
+We continue to expect to be free cash 3 flow positive for the full year 2022 and beyond.
+During the quarter, we completed two acquisitions (leading visual effects company Scanline and gaming studio Boss Fight Entertainment), which had a -$125 million impact on cash.
+We also announced our purchase of Helsinki-based gaming company Next Games.
+We’ve completed the tender offer and expect to complete the transaction in the second half of 2022. We finished Q1 with gross debt of $14.6 billion after repaying $700 million of our senior notes.
+We’re now within the top end of our gross debt target range of $10-$15 billion.
+With cash of $6.0 billion, net debt was $8.6 billion at the end of the quarter, equating to a 1.3x LTM leverage ratio.
+Given those uses 4 of cash and our minimum cash target, we didn’t engage in share repurchase activity during the quarter.
+Environmental, Social, and Governance (ESG) We recently published our 2021 ESG Report (March 30, 2022).
+We’ve made good progress on our climate commitments announced last year - reducing or avoiding more than 14,000 metric tons of emissions in 2021. This enabled us to reduce our Scope 1 and 2 footprint by more than 10% from what it otherwise would have been and puts us on track to cut 45% of these emissions by 2030. We continue to develop our inclusion lens.
+In 2021, women made up 51.7% of our global workforce , up 5 from 48.7% in 2020. Half of our US workforce (50.5%) is made up of people from one or more historically excluded ethnic and/or racial backgrounds, including Asian, Black, Hispanic or Latino, Middle Eastern, Native American, and Pacific Islander.
+That’s up from 46.8% in the previous year.
+The number of US 6 Black employees increased from 8.6% to 10.7% and Black leadership increased from 10.9% to 13.3%.
+The number of US Hispanic or Latino employees increased from 7.9% to 8.6%, and US Hispanic or Latino leadership grew slightly from 4.3% to 4.4%.
+As noted in our last investor letter and our 2022 preliminary proxy, the board has decided to recommend to shareholders that Netflix evolve to a more standard large cap company governance structure.
+At this year’s annual meeting in June, we’ll present proposals to declassify our board, remove supermajority voting provisions in our charter and enable shareholders to call special meetings.
+We’ll also change the voting standard for our directors to simple majority in uncontested elections.

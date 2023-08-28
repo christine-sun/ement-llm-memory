@@ -1,0 +1,54 @@
+Q1 2023 Update
+
+Highlights
+Profitability: 11.4% operating margin in Q1, $2.7B GAAP operating income in Q1, $2.5B GAAP net income in Q1, $2.9B non-GAAP net income1 in Q1
+Cash: Operating cash flow of $2.5B, Free cash flow2 of $0.4B in Q1, $0.2B increase in our cash and investments3 in Q1 to $22.4B
+Operations: Cybertruck factory tooling on track; producing Alpha versions, Model Y was the best-selling vehicle in Europe in Q1, Model Y was the best-selling vehicle in the US in Q1 (ex-pickups)
+Summary: In the current macroeconomic environment, we see this year as a unique opportunity for Tesla.
+As many carmakers are working through challenges with the unit economics of their EV programs, we aim to leverage our position as a cost leader.
+We are focused on rapidly growing production, investments in autonomy and vehicle software, and remaining on track with our growth investments.
+Our near-term pricing strategy considers a long-term view on per vehicle profitability given the potential lifetime value of a Tesla vehicle through autonomy supercharging, connectivity and service.
+We expect that our product pricing will continue to evolve, upwards or downwards, depending on a number of factors.
+Although we implemented price reductions on many vehicle models across regions in the first quarter, our operating margins reduced at a manageable rate.
+We expect ongoing cost reduction of our vehicles, including improved production efficiency at our newest factories and lower logistics costs, and remain focused on operating leverage as we scale.
+We are rapidly growing energy storage production capacity at our Megafactory in Lathrop and we recently announced a new Megafactory in Shanghai.
+We are also continuing to execute on our product roadmap, including Cybertruck, our next generation vehicle platform, autonomy and other AI enabled products.
+Our balance sheet and net income enable us to continue to make these capital expenditures in line with our future growth.
+In this environment, we believe it makes sense to push forward to ensure we lay a proper foundation for the best possible future.
+In Q1, we produced a record number of vehicles, thanks to ongoing ramps at our factories in Austin and Berlin.
+We remain committed to reducing the percentage of vehicles delivered in the 3rd month and smoothing deliveries throughout the quarter, which will help to reduce cost per vehicle, while increasing in-transit inventory at the end of each quarter
+US: California, Nevada and Texas: The Model Y was the best-selling non-pickup vehicle in the US in Q1. We showcased 4680 cell production at our March-2023 Investor Day; production rate continued to improve sequentially in Q1. Equipment installation for Cybertruck production at Gigafactory Texas continued in Q1 and remains on track.
+Since our Shanghai factory has been successfully running near full capacity for several months, we do not expect meaningful increase of weekly production run rate.
+We launched sales in Thailand, a new market supplied out of Shanghai.
+Thus far, the reception has been very positive.
+Giga Shanghai remains our main export hub.
+The Model Y production line in Germany produced over 5,000 vehicles in a week towards the end of Q1.
+In Q1-2023, Tesla Model Y became the best-selling vehicle, of any kind, in Europe (EU + EFTA + UK)*
+Our growing fleet of FSD Beta users has an exponential impact on total FSD Beta miles driven – with over 150 million miles to date and counting.
+This level of data collection is unprecedented in the industry.
+Mass collection of diverse datasets is essential for AI-based approach – the only approach we believe can work for scalable autonomy.
+In Q1, we enabled the latest FSD Beta software stack for highway driving
+While our various vehicles provide different range, acceleration or vehicle size, we believe the Tesla software experience is the best-in-class across all vehicles.
+Even the base Model 3 offers seamless integration of vehicle controls, safety and security features (sentry mode, dog mode) and a full suite of connectivity and entertainment features (Spotify, other music streaming services, video streaming, 4G, etc.), and ongoing software updates bring yet more functionality over time.
+Recently, we launched home-grown Recruitment and Employee Health & Safety platforms as part of the broader Tesla OS ecosystem.
+Producing electric vehicles profitably is a challenging endeavor.
+It requires rethinking how vehicles are designed and produced from the ground up.
+Our cost journey is nowhere near finished, which is why we recently announced transition to 48 Volt architecture for vehicle electronics (starting with Cybertruck), higher penetration of in-house designed controllers, cheaper, more scalable drive units and further innovations in the manufacturing process.
+Cost reduction remains the main enabler of delivering on our mission.
+Energy storage deployments increased by 360% YoY in Q1 to 3.9 GWh, the highest level of deployments we have achieved due to ongoing Megafactory ramp.
+The ramp of our 40 GWh Megapack factory in Lathrop, California has been successful with still more room to reach full capacity.
+This Megapack factory will be the first of many.
+We recently announced our second 40 GWh Megafactory, this time in Shanghai, with construction starting later this year.
+Solar deployments increased by 40% YoY in Q1 to 67 MW, but declined sequentially in the quarter, predominantly due to volatile weather and other factors.
+In addition, the solar industry has been impacted by supply chain challenges.
+Both revenue and gross profit from Services and Other reached an all-time high in Q1 2023.
+Within this business division, growth of used vehicle sales remained strong YoY and had healthy margins.
+Supercharging, while still a relatively small part of the business, continued to grow as we gradually open up the network to non-Tesla vehicles.
+We are planning to grow production as quickly as possible in alignment with the 50% CAGR target we began guiding to in early 2021. In some years we may grow faster and some we may grow slower, depending on a number of factors.
+For 2023, we expect to remain ahead of the long-term 50% CAGR with around 1.8 million cars for the year
+We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses.
+Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied with an acceleration of software-related profits.
+We continue to believe that our operating margin will remain among the highest in the industry.
+Cybertruck remains on track to begin production later this year at Gigafactory Texas.
+In addition, we continue to make progress on our next generation platform.

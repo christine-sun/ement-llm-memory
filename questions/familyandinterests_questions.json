@@ -1,0 +1,62 @@
+{
+    "open-ended": [
+        {
+            "question": "What are some of the activities that the human enjoys doing with their mom?",
+            "answer": "The human enjoys gardening with their mom."
+        },
+        {
+            "question": "What are some of the activities that the human enjoys doing with their dad?",
+            "answer": "The human enjoys playing basketball with their dad."
+        },
+        {
+            "question": "What is the human's hobby that serves as a creative outlet?",
+            "answer": "The human's hobby that serves as a creative outlet is photography."
+        },
+        {
+            "question": "What are the human's favorite subjects or themes to photograph?",
+            "answer": "The human loves taking photos of nature, landscapes, and candid shots of people."
+        },
+        {
+            "question": "What are some of the activities that the human enjoys doing with their older brother?",
+            "answer": "The human enjoys playing video games and learning about the latest gadgets and tech trends with their older brother."
+        },
+        {
+            "question": "What are some of the activities that the human enjoys doing with their younger sister?",
+            "answer": "The human enjoys having jam sessions where the sister plays the guitar and the human sings along."
+        },
+        {
+            "question": "Who is Alex?",
+            "answer": "Alex is the human's best friend who has been a huge source of support for the human."
+        },
+        {
+            "question": "What are some of the activities that the human enjoys doing with Alex?",
+            "answer": "The human enjoys hiking, exploring the outdoors, trying out new restaurants, watching movies, and going on road trips with Alex."
+        },
+        {
+            "question": "What are some of the human's favorite genres and authors in literature?",
+            "answer": "The human enjoys mystery, thriller, science fiction, fantasy, and classic literature. Some favorite authors include Agatha Christie, Neil Gaiman, Octavia Butler, and Harper Lee."
+        }
+    ],
+    "binary": [
+        {
+            "question": "Does the human have an older brother? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Does the human have a younger sister? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the human interested in gardening? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the human interested in photography? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the human part of a book club? Answer with Yes or No.",
+            "answer": "Yes"
+        }
+    ]
+}

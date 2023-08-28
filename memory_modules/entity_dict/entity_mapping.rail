@@ -1,0 +1,25 @@
+<rail version="0.1">
+
+<output>
+    <list
+        name="entity_list"
+        description="list of all entities and their sentences">
+        <object>
+            <string name="entity_name" description="the name of the entity"/>
+            <string
+                name="sentences"
+                description="the sentences associated with the entity"
+            />
+        </object>
+    </list>
+</output>
+
+<prompt>
+
+Given the following text, please extract a list of all relevant entities mentioned in the following conversation, along with all of their associated sentences. If it is too long, do NOT include the final entity at all.
+
+{{curr_lines}}
+
+@complete_json_suffix_v2
+</prompt>
+</rail>

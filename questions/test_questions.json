@@ -1,0 +1,42 @@
+{
+    "open-ended": [
+        {
+            "question": "What is the human's cat's name?",
+            "answer": "Mimi."
+        },
+        {
+            "question": "How is the human's cat doing?",
+            "answer": "She is sick."
+        },
+        {
+            "question": "What is Mimi's favorite physical activity?",
+            "answer": "Mimi's favorite physical activity is swimming."
+        },
+        {
+            "question": "How does Mimi usually get sick?",
+            "answer": "Mimi usually gets sick when she eats lemons."
+        },
+        {
+            "question": "What is the human doing to take care of Mimi?",
+            "answer": "The human is letting Mimi sleep more to try to help her feel better."
+        }
+    ],
+    "binary": [
+        {
+            "question": "Does Mimi like to swim? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Does Mimi get sick often? Answer with Yes or No.",
+            "answer": "No"
+        },
+        {
+            "question": "Is Mimi a ginger cat? Answer with Yes or No.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the human able to tell if the extra sleep is helping Mimi? Answer with Yes or No.",
+            "answer": "No"
+        }
+    ]
+}

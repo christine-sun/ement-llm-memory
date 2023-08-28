@@ -1,0 +1,70 @@
+{
+    "open-ended": [
+        {
+        "question": "What did the person say about their Apple puts?",
+        "answer": "They said they sold their Apple puts a day before close."
+        },
+        {
+        "question": "What is the user's opinion on HBO Max changing its name to just Max?",
+        "answer": "The user thinks it is one of the dumber marketing moves they've seen."
+        },
+        {
+        "question": "How much did the user lose today?",
+        "answer": "The user lost $450 today."
+        },
+        {
+        "question": "What does the user think about Netflix's recent content?",
+        "answer": "The user thinks the content Netflix is pumping out now is absolute shit."
+        },
+        {
+        "question": "What did the user say about their AAPL puts?",
+        "answer": "The user said they were busy all morning and when they checked their 160 AAPL puts, they got shafted."
+        },
+        {
+        "question": "What did the user say about the new bookstore in town?",
+        "answer": "The user mentioned the new bookstore is called 'Bookworms' and they had a great conversation about books with the owner."
+        },
+        {
+        "question": "How much did the user make on the day of the rally?",
+        "answer": "The user made $14,000 on the day of the rally without using options."
+        },
+        {
+        "question": "What did the user say about their YTD performance?",
+        "answer": "The user mentioned their YTD performance is -98%."
+        }
+    ],
+    "binary": [
+        {
+        "question": "Did NVDA close red? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Does the user ignore all Chinese stocks? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did the user admit they are poor? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Does the user have a positive view of the recent market rally? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Did the user save their brother's dogs and house from a fire? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did the user's performance improve after saving their brother's house? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Does the user think there will be a recession kickoff soon? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is the user upset about being taken off their mom's Netflix account? Answer with Yes or No.",
+        "answer": "Yes"
+        }
+    ]
+    }

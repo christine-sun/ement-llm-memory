@@ -1,0 +1,92 @@
+April 18, 2023
+Fellow shareholders,
+Summary:
+● Q1‘23 revenue and operating profit were in-line with our forecast.
+● We delivered a strong content slate in Q1 with:
+○ Successful returning seasons like Outer Banks, You, Ginny & Georgia and a big sequel film Murder Mystery 2.
+○ New hits across nearly every genre of TV like The Night Agent (now our 6th most popular English language TV show ever), The Glory (our 5th most popular non-English TV show ever), Full Swing, That 90s Show and films You People and Luther: The Fallen Sun.
+● With Moody’s recent upgrade, we achieved investment grade status. Netflix is the leading streaming service based on engagement, revenue and profit and we are working to build on that in ‘23, by seeking to expand operating margin to 18%-20% and to generate at least +$3.5B of free cash flow (up from our prior expectation of at least $3.0B of FCF).
+● In Q1, we launched paid sharing in four countries and are pleased with the results.
+We are planning on a broad rollout, including in the US, in Q2.
+● Given current healthy performance and trajectory of our per-member advertising economics, particularly in the US, we’re upgrading our ads experience with more streams and improved video quality to attract a broader range of consumers.
+In short, we’re off to a good start in 2023.
+As always, our focus remains pleasing our members and attracting great creators so that we can continue to build a wildly successful business.
+(in millions except per share data) Q1'22 Q2'22 Q3'22 Q4'22 Q1'23
+Q2'23
+Forecast
+Revenue $7,868 $7,970 $7,926 $7,852 $8,162 $8,242
+Y/Y % Growth 9.8% 8.6% 5.9% 1.9% 3.7% 3.4%
+Operating Income $1,972 $1,578 $1,533 $550 $1,714 $1,565
+Operating Margin 25.1% 19.8% 19.3% 7.0% 21.0% 19.0%
+Net Income $1,597 $1,441 $1,398 $55 $1,305 $1,283
+Diluted EPS $3.53 $3.20 $3.10 $0.12 $2.88 $2.84
+Global Streaming Paid Memberships 221.64 220.67 223.09 230.75 232.50
+Y/Y % Growth 6.7% 5.5% 4.5% 4.0% 4.9%
+Global Streaming Paid Net Additions -0.20 -0.97 2.41 7.66 1.75
+Net cash provided by operating activities $923 $103 $557 $444 $2,179
+Free Cash Flow* $802 $13 $472 $332 $2,117
+Shares (FD) 453.0 450.2 450.3 451.6 452.4
+1
+Q1 Results
+Revenue grew 4% year over year in Q1 (+8% on a foreign exchange (F/X) neutral basis ), consistent with our beginning-of-quarter forecast.
+Average paid memberships increased 4% year over year, while ARM2 was -1% vs. Q1’22 (+4% on an F/X neutral basis).
+Paid net adds amounted to 1.8M for Q1 vs. -0.2M in the year ago quarter.
+Regional highlights include:
+● UCAN revenue grew 8% year over year (both reported and F/X neutral) driven by a 9% increase in ARM (both reported and F/X neutral).
+● EMEA revenue was down 2% year over year (+6% on an F/X neutral basis), due primarily to a decline of 6% in ARM (+1% on an F/X neutral basis), offset partially by a 4% increase in average paid memberships.
+● LATAM revenue increased 7% year over year (+13% F/X neutral), with a 3% rise in ARM (+8% F/X neutral). Paid membership dipped by 0.4M, which we believe is due to pull forward from Q4 (when we had a big quarter with 1.8M paid net adds) and ongoing macroeconomic softness.
+● APAC revenue grew 2% year over year (+10% F/X neutral). Average paid memberships increased 17% year over year. This offset a 13% decrease in ARM (-6% F/X neutral), which was due to plan mix and a higher mix of member growth in countries with lower pricing.
+Operating income totaled $1.7B vs. $2.0B in Q1‘22 - above our guidance forecast of $1.6B due to ongoing expense management and timing of hiring and content spend.
+Operating margin was 21% compared to 25% in the year ago period.
+The year over year decline in operating margin was primarily due to F/X - the appreciation of the US dollar accounted for roughly three percentage points of the year over year change in operating margin.
+Q1’23 EPS of $2.88 (vs. $3.53 in Q1‘22) was in-line with our guidance of $2.82 and included an $81 million non-cash unrealized loss from F/X remeasurement on our Euro denominated debt.
+Forecast
+Our primary financial metrics are revenue for growth and operating margin for profitability.
+Our long term financial objectives are unchanged - sustain double digit revenue growth, expand operating margin and deliver growing positive free cash flow.
+The quarterly guidance we provide is our actual internal forecast at the time we report.
+We strive for accuracy although the rollout of major new initiatives (paid sharing and ads) leads to less-than-normal visibility.
+We’re on track to meet our full year 2023 financial objectives.
+For Q2’23, we forecast revenue of $8.2B, up 3% year over year, or 6% growth on an F/X neutral basis.
+We’re pleased with the most recent launches of paid sharing, and while we could have launched broadly in Q1, we found opportunities to improve the experience for members.
+We learn more with each rollout and we’ve incorporated the latest learnings, which we think will lead to even better results.
+To implement these changes, we shifted out the timing of the broad launch from late Q1 to Q2.
+While this means that some of the expected membership growth and revenue benefit will fall in Q3 rather than Q2, we believe this will result in a better outcome for both our members and our business (more details in the Monetization and Revenue section).
+The majority of our year over year F/X neutral revenue growth in Q2 is expected to come from growth in our paid membership base.
+This translates into Q2 paid net adds that are roughly similar to Q1’23 and a slight increase in year over year F/X neutral ARM (limited price increases during paid sharing rollout).
+We forecast Q2’23 operating income of $1.6B (roughly flat year over year) and an operating margin of 19% vs. 20% in Q2’22.
+The year over year decline in operating margin is attributable to the appreciation of the US dollar against most other currencies over the past year.
+We expect constant currency revenue growth to accelerate over the course of the second half of 2023 as we continue to improve our service, more broadly roll out paid sharing in Q2 and grow our advertising business.
+We also expect year over year operating profit growth and operating margin expansion for the full year (assuming no material swings in F/X).
+We’re still targeting a 2023 operating margin of 18%-20%, based on F/X rates as of January 1, 2023.
+We believe our ability to deliver on our long term financial targets will hinge on 1) growing engagement and 2) improving our monetization to fuel revenue growth and increased profitability.
+Engagement is important to success in streaming because it drives both retention (increased member satisfaction) and acquisition (greater word of mouth).
+The third party data in the chart below shows that Netflix and YouTube are the clear leaders in streaming engagement – and that the opportunity ahead is significant as streaming still accounts for the minority of viewing in every country.
+We remain highly confident that streaming’s share of engagement will continue to grow at the expense of linear since it offers a better experience (on demand, availability across devices).
+We believe this gives Netflix tremendous room for growth if we can continue to improve our service – increasing our share of total viewing by multiples higher than today’s 2-4% share in Brazil, Mexico and Poland, or 7- 9% share in the US and the UK.
+3 For View Hours for titles, please visit Netflix Top 10.
+The UK measures viewing across four screens (TV, smart phone, tablet and laptop), all others are TV only.
+As our Netflix Top 10 lists show, people have very diverse tastes. To please our members we need to connect them with a title they’ll love in that moment – whether it’s an elevated drama, comedy, action adventure or reality show, versus simply engagement for engagement’s sake.
+The more we can consistently deliver the right titles to the right audiences at the right time, the more our members will choose Netflix when they next turn on their TV or recommend our service to their friends.
+It’s a virtuous flywheel, which is why our content teams are so focused on working with the best creators, and the variety and quality of our slate.
+In March, for example, All Quiet on the Western Front (the Oscar and BAFTA winning film) and Too Hot To Handle Germany hit our German Top 10 – two very different must watch, much loved titles that speak to the breadth of our programming ambitions.
+In Q1, we had several big returning series and films – demonstrating our growing ability to develop stories across genres – including Outer Banks S3, You S4, Ginny & Georgia S2, Soy Georgina S2, The Glory’s new installment and a big sequel to our hit film Murder Mystery.
+Building anticipation and buzz before and after titles premiere is a key goal for our Marketing team as it helps drive acquisition and retention.
+For example, excitement for Murder Mystery 2 drove the original film back into the top 10.
+For Outer Banks S3, we held our first ever live music event – Poguelandia – to drive fandom, with the title generating 2.2B social impressions to date, just ahead of You S4 with 2.1B.
+Our unique ability to connect creators with huge audiences of passionate fans through our near global reach, personalization, innovative marketing and publicity are key reasons storytellers want to tell their stories on Netflix.
+In addition, we successfully launched big new titles across a broad variety of genres – including The Night Agent, La chica de nieve, Rana Naidu, and the movie Kill Boksoon all in the thriller/action space, the golf docu series Full Swing and new dating show Perfect Match.
+These series are all being renewed for subsequent seasons.
+We’re also starting to find greater success in scripted comedies with the returning season of The Upshaws and the Q1 debut of That 90’s Show (a spinoff of That 70’s Show), Machos Alfas and En Place.
+Similarly, our Q1 film offering included You People (with Jonah Hill and Eddie Murphy), the romantic comedy Your Place or Mine (starring Ashton Kutcher and Reese Witherspoon), as well as Murder Mystery 2 (featuring Adam Sandler and Jennifer Aniston).
+In stand-up, Chris Rock’s Selective Outrage – now the most-streamed comedy special of all time in the US according to Nielsen – was one of our buzziest titles this quarter.
+Monetization and Revenue
+As we improve our member experience with more must watch stories, we also need to improve our monetization.
+This will not only help reaccelerate revenue growth and increase operating margin, it will also enable us to invest more in great entertainment.
+We want to be more sophisticated around pricing so that we offer a range of price points and feature sets to suit consumers’ differing needs.
+For example, when we launched globally in 2016, we took a fairly uniform approach to pricing across most countries given our focus on early adopters.
+Over time we’ve adapted our prices to meet local needs and to further deepen our penetration, including lowering prices in India by 20%-60% in December ‘21.
+These reductions – combined with an improved slate – helped grow engagement in India by nearly 30% year on year while F/X neutral revenue growth in 2022 accelerated to 24% (versus 19% in 2021).
+Learning from this success, we reduced prices in an additional 116 countries in Q1.
+While they represented less than 5% of our FY‘22 revenue, we believe that increasing adoption in these markets will help to maximize our revenue longer term.
+Similarly, our new ads plan allows us to offer consumers a lower price point.
+While it’s still very early days, we continue to be pleased with our progress across all key dimensions: member experience, value to advertisers and incremental contribution to our business.

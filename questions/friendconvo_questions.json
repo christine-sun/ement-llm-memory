@@ -1,0 +1,82 @@
+{
+    "open-ended": [
+        {
+        "question": "What did Bob find interesting in history class?",
+        "answer": "Bob found ancient Greece and mythology interesting."
+        },
+        {
+        "question": "Which book did Bob recently read?",
+        "answer": "Bob recently read 'The Lightning Thief' by Rick Riordan."
+        },
+        {
+        "question": "What is the name of the new bookstore that opened up in town?",
+        "answer": "The name of the new bookstore is 'Bookworms'."
+        },
+        {
+        "question": "What instrument does Bob enjoy playing?",
+        "answer": "Bob enjoys playing the piano."
+        },
+        {
+        "question": "Who is Anna?",
+        "answer": "Anna is one of Bob's closest friends since kindergarten."
+        },
+        {
+        "question": "Who is Mike?",
+        "answer": "Mike is another close friend of Bob, who is funny and knows how to cheer Bob up."
+        },
+        {
+        "question": "How does Alice feel about talking to people who are passionate about books?",
+        "answer": "Alice loves talking to people who are passionate about books."
+        },
+        {
+        "question": "What is Bob's grandmother's role in Bob's life?",
+        "answer": "Bob's grandmother is one of the most important people in their life, giving them great advice and encouraging them to follow their dreams."
+        },
+        {
+        "question": "What does Bob think about their little sister?",
+        "answer": "Bob thinks their little sister can be annoying at times, but they love her anyway."
+        },
+        {
+        "question": "Who is part of Bob's support system?",
+        "answer": "Bob's support system includes their grandmother, parents, little sister, and close friends like Anna and Mike."
+        },
+        {
+        "question": "How do Alice and Bob plan to celebrate Bob's newfound love for mythology and the opening of Bookworms?",
+        "answer": "Alice and Bob plan to celebrate by grabbing some ice cream."
+        }
+    ],
+    "binary": [
+        {
+        "question": "Is Bob interested in ancient Greek mythology? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did Bob have a conversation with the owner of the new bookstore? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is Bob's grandmother a concert pianist? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Are Alice and Bob close friends? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Has Bob been through some difficult times before? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is Bob's grandmother important to them? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Does Bob's support system include their friends? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Do Alice and Bob plan to celebrate with ice cream? Answer with Yes or No.",
+        "answer": "Yes"
+        }
+    ]
+}

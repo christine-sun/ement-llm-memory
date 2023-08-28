@@ -1,0 +1,142 @@
+{
+    "open-ended": [
+      {
+        "question": "Which Marvel movie was mentioned in the conversation?",
+        "answer": "The latest Marvel movie featuring Tom Holland as Spider-Man."
+      },
+      {
+        "question": "What does the World Wildlife Fund (WWF) do?",
+        "answer": "The World Wildlife Fund (WWF) works to protect endangered species."
+      },
+      {
+        "question": "What improvement did Max, the dog, experience after being trained by Cesar Millan?",
+        "answer": "Max improved his potty training and consistently started pooping on the right napkins."
+      },
+      {
+        "question": "What piece did the London Symphony Orchestra play at the concert?",
+        "answer": "The London Symphony Orchestra played Beethoven's Ninth Symphony."
+      },
+      {
+        "question": "What is the name of the Netflix series starring Jennifer Aniston and Sandra Bullock?",
+        "answer": "The Netflix series is called 'The Lost City'."
+      },
+      {
+        "question": "What is Elon Musk's startup Neuralink working on?",
+        "answer": "Neuralink is working on developing brain-computer interfaces."
+      },
+      {
+        "question": "What is the favorite burger of the person who loves Shake Shack?",
+        "answer": "Their favorite burger is the SmokeShack burger."
+      },
+      {
+        "question": "Which electric vehicle is mentioned as competition for Tesla?",
+        "answer": "The BMW i5 is mentioned as competition for Tesla."
+      },
+      {
+        "question": "Who gave an inspiring speech about climate change at the virtual conference?",
+        "answer": "Greta Thunberg gave an inspiring speech about climate change."
+      },
+      {
+        "question": "What was the cat in the YouTube video playing with?",
+        "answer": "The cat, Lil Bub, was playing with a toy mouse."
+      },
+      {
+        "question": "Which actor plays Spider-Man in the mentioned Marvel movie?",
+        "answer": "Tom Holland plays Spider-Man."
+        },
+        {
+        "question": "Which organization's program allowed the person to adopt a panda?",
+        "answer": "The person adopted a panda through the World Wildlife Fund's program."
+        },
+        {
+        "question": "What kind of music did the person express an interest in?",
+        "answer": "The person expressed an interest in classical music."
+        },
+        {
+        "question": "What new project did Jeff Bezos announce for Blue Origin?",
+        "answer": "Jeff Bezos announced a project to establish a colony on Mars."
+        },
+        {
+        "question": "Who is the architect behind the new Apple headquarters?",
+        "answer": "Sir Norman Foster is the architect behind the new Apple headquarters."
+        },
+        {
+        "question": "What is the name of the restaurant chain known for its burgers and shakes?",
+        "answer": "The restaurant chain is called Shake Shack."
+        },
+        {
+        "question": "What is the new electric vehicle from BMW called?",
+        "answer": "The new electric vehicle from BMW is called the i5."
+        },
+        {
+        "question": "Who is the influential figure in the fight against climate change mentioned in the conversation?",
+        "answer": "Greta Thunberg is the influential figure in the fight against climate change."
+        },
+        {
+        "question": "What are the names of the actresses starring in 'The Lost City'?",
+        "answer": "Jennifer Aniston and Sandra Bullock star in 'The Lost City'."
+        },
+        {
+        "question": "What is the name of the famous pet trainer who helped Max?",
+        "answer": "Cesar Millan is the famous pet trainer who helped Max."
+        }
+    ],
+    "binary": [
+      {
+        "question": "Did the person adopt a panda through WWF? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is Sir Norman Foster the architect behind the new Apple headquarters? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does Blue Origin plan to establish a colony on Mars? Answer with Yes or No.",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are the Berlin Philharmonic and London Symphony Orchestra the same orchestra? Answer with Yes or No.",
+        "answer": "No"
+      },
+      {
+        "question": "Is Tom Holland featured in the latest Marvel movie as Spider-Man? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did the person attend a concert featuring the London Symphony Orchestra? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is Neuralink working on a project related to space travel? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Is the new Apple headquarters designed to be eco-friendly? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did the person recommend watching a YouTube series instead of a Netflix series? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Is the cat named Lil Bub mentioned as a character in a movie? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Is the Berlin Philharmonic mentioned as a favorite of one of the speakers? Answer with Yes or No.",
+        "answer": "No"
+        },
+        {
+        "question": "Does the person express an interest in attending a performance by the Berlin Philharmonic? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Is the BMW i5 an electric vehicle? Answer with Yes or No.",
+        "answer": "Yes"
+        },
+        {
+        "question": "Did the person enjoy the concert featuring Beethoven's Ninth Symphony? Answer with Yes or No.",
+        "answer": "Yes"
+        }
+    ]
+  }
